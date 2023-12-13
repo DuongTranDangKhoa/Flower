@@ -20,15 +20,15 @@
         <!-- My CSS -->
         <link rel="stylesheet" href="style.css">
 
-        <title>CMS</title>
+        <title>Flower Shop</title>
     </head>
     <body>
 
 
         <section id="sidebar">
             <a href="#" class="brand">
-                <i class='bx bxs-smile'></i>
-                <span class="text">Shoes Store</span>
+                <i class='bx bxs-flower'></i>
+                <span class="text">Flower Shop</span>
             </a>
             <ul class="side-menu top">
                 <li>
@@ -46,7 +46,7 @@
                 <li style="margin-left: 50px;">
                     <a href="addProduct.jsp">
                         <i class='bx bxs-calendar-check' ></i>
-                        <span class="text">Add New Product</span>
+                        <span class="text">Add New Flower</span>
                     </a>
                 </li>
                 <li style="margin-left: 50px;">
